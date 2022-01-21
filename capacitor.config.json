@@ -1,0 +1,6 @@
+{
+  "appId": "za.co.erowidpoc",
+  "appName": "erowid_POC",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
