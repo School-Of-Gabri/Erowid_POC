@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">erowid_POC</string>
+    <string name="title_activity_main">erowid_POC</string>
+    <string name="package_name">za.co.erowidpoc</string>
+    <string name="custom_url_scheme">za.co.erowidpoc</string>
+</resources>
